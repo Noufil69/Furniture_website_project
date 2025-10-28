@@ -1,0 +1,29 @@
+# Sensitive PHP files
+admin.php
+*.csv
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+config.php
+
+# Cache directories
+/cache/
+/tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
